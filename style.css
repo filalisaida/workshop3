@@ -32,7 +32,6 @@
   
   a {
     font-size: 1.6rem;
-    color: var(--dark);
     text-decoration: none;
   }
   
@@ -46,7 +45,7 @@
   
   hr {
     border: 0;
-    border-bottom: 1px solid var(--gray);
+    border-bottom: 1px solid ;
   }
   
   
